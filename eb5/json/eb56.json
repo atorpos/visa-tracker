@@ -1,0 +1,967 @@
+[
+  {
+    "file_no": "WAC1990200601",
+    "case_status": "Case Was Received",
+    "case_date": "April 3 2019"
+  },
+  {
+    "file_no": "WAC1990200602",
+    "case_status": "Case Was Received",
+    "case_date": "April 3 2019"
+  },
+  {
+    "file_no": "WAC1990200604",
+    "case_status": "Case Was Received",
+    "case_date": "April 3 2019"
+  },
+  {
+    "file_no": "WAC1990200605",
+    "case_status": "Case Was Received",
+    "case_date": "April 3 2019"
+  },
+  {
+    "file_no": "WAC1990200606",
+    "case_status": "Case Was Approved",
+    "case_date": "February 11 2020"
+  },
+  {
+    "file_no": "WAC1990200609",
+    "case_status": "Case Was Received",
+    "case_date": "April 3 2019"
+  },
+  {
+    "file_no": "WAC1990200929",
+    "case_status": "Case Was Received",
+    "case_date": "April 4 2019"
+  },
+  {
+    "file_no": "WAC1990200930",
+    "case_status": "Case Was Received",
+    "case_date": "April 4 2019"
+  },
+  {
+    "file_no": "WAC1990200931",
+    "case_status": "Case Was Received",
+    "case_date": "April 4 2019"
+  },
+  {
+    "file_no": "WAC1990200933",
+    "case_status": "Case Was Received",
+    "case_date": "April 4 2019"
+  },
+  {
+    "file_no": "WAC1990202682",
+    "case_status": "Case Was Approved",
+    "case_date": "January 30 2020"
+  },
+  {
+    "file_no": "WAC1990202684",
+    "case_status": "Case Was Received",
+    "case_date": "April 5 2019"
+  },
+  {
+    "file_no": "WAC1990202685",
+    "case_status": "Case Was Received",
+    "case_date": "April 5 2019"
+  },
+  {
+    "file_no": "WAC1990202688",
+    "case_status": "Case Was Received",
+    "case_date": "April 5 2019"
+  },
+  {
+    "file_no": "WAC1990202689",
+    "case_status": "Case Was Received",
+    "case_date": "April 5 2019"
+  },
+  {
+    "file_no": "WAC1990202690",
+    "case_status": "Case Was Received",
+    "case_date": "April 5 2019"
+  },
+  {
+    "file_no": "WAC1990203798",
+    "case_status": "Case Was Received",
+    "case_date": "April 8 2019"
+  },
+  {
+    "file_no": "WAC1990203799",
+    "case_status": "Case Was Received",
+    "case_date": "April 8 2019"
+  },
+  {
+    "file_no": "WAC1990203800",
+    "case_status": "Case Was Approved",
+    "case_date": "February 26 2020"
+  },
+  {
+    "file_no": "WAC1990204400",
+    "case_status": "Case Was Received",
+    "case_date": "April 8 2019"
+  },
+  {
+    "file_no": "WAC1990204434",
+    "case_status": "Case Was Received",
+    "case_date": "April 8 2019"
+  },
+  {
+    "file_no": "WAC1990204457",
+    "case_status": "Case Was Received",
+    "case_date": "April 8 2019"
+  },
+  {
+    "file_no": "WAC1990204479",
+    "case_status": "Case Was Received",
+    "case_date": "April 8 2019"
+  },
+  {
+    "file_no": "WAC1990207523",
+    "case_status": "Case Was Received",
+    "case_date": "April 9 2019"
+  },
+  {
+    "file_no": "WAC1990207551",
+    "case_status": "Case Was Received",
+    "case_date": "April 9 2019"
+  },
+  {
+    "file_no": "WAC1990207555",
+    "case_status": "Case Was Received",
+    "case_date": "April 9 2019"
+  },
+  {
+    "file_no": "WAC1990207556",
+    "case_status": "Case Was Received",
+    "case_date": "April 9 2019"
+  },
+  {
+    "file_no": "WAC1990207999",
+    "case_status": "Case Was Received",
+    "case_date": "April 9 2019"
+  },
+  {
+    "file_no": "WAC1990208000",
+    "case_status": "Case Was Received",
+    "case_date": "April 9 2019"
+  },
+  {
+    "file_no": "WAC1990208008",
+    "case_status": "Case Was Approved",
+    "case_date": "May 18 2020"
+  },
+  {
+    "file_no": "WAC1990208073",
+    "case_status": "Case Was Received",
+    "case_date": "April 10 2019"
+  },
+  {
+    "file_no": "WAC1990208074",
+    "case_status": "Case Was Received",
+    "case_date": "April 10 2019"
+  },
+  {
+    "file_no": "WAC1990208105",
+    "case_status": "Case Was Received",
+    "case_date": "April 10 2019"
+  },
+  {
+    "file_no": "WAC1990208723",
+    "case_status": "Case Was Received",
+    "case_date": "April 10 2019"
+  },
+  {
+    "file_no": "WAC1990208747",
+    "case_status": "Case Was Received",
+    "case_date": "April 10 2019"
+  },
+  {
+    "file_no": "WAC1990208754",
+    "case_status": "Case Was Received",
+    "case_date": "April 10 2019"
+  },
+  {
+    "file_no": "WAC1990209337",
+    "case_status": "Case Was Received",
+    "case_date": "April 11 2019"
+  },
+  {
+    "file_no": "WAC1990209369",
+    "case_status": "Case Was Received",
+    "case_date": "April 11 2019"
+  },
+  {
+    "file_no": "WAC1990209436",
+    "case_status": "Name Was Updated",
+    "case_date": "November 22 2019"
+  },
+  {
+    "file_no": "WAC1990209437",
+    "case_status": "Case Was Received",
+    "case_date": "April 11 2019"
+  },
+  {
+    "file_no": "WAC1990209441",
+    "case_status": "Case Was Received",
+    "case_date": "April 11 2019"
+  },
+  {
+    "file_no": "WAC1990209456",
+    "case_status": "Name Was Updated",
+    "case_date": "August 5 2020"
+  },
+  {
+    "file_no": "WAC1990209457",
+    "case_status": "Case Was Received",
+    "case_date": "April 11 2019"
+  },
+  {
+    "file_no": "WAC1990210051",
+    "case_status": "Case Was Received",
+    "case_date": "April 10 2019"
+  },
+  {
+    "file_no": "WAC1990211475",
+    "case_status": "Case Was Received",
+    "case_date": "April 12 2019"
+  },
+  {
+    "file_no": "WAC1990211476",
+    "case_status": "Case Was Received",
+    "case_date": "April 12 2019"
+  },
+  {
+    "file_no": "WAC1990211480",
+    "case_status": "Case Was Received",
+    "case_date": "April 12 2019"
+  },
+  {
+    "file_no": "WAC1990211620",
+    "case_status": "Name Was Updated",
+    "case_date": "July 11 2019"
+  },
+  {
+    "file_no": "WAC1990211621",
+    "case_status": "Case Was Received",
+    "case_date": "April 12 2019"
+  },
+  {
+    "file_no": "WAC1990212038",
+    "case_status": "Case Was Received",
+    "case_date": "April 12 2019"
+  },
+  {
+    "file_no": "WAC1990212039",
+    "case_status": "Date of Birth Was Updated",
+    "case_date": "July 19 2019"
+  },
+  {
+    "file_no": "WAC1990212040",
+    "case_status": "Case Was Received",
+    "case_date": "April 12 2019"
+  },
+  {
+    "file_no": "WAC1990212065",
+    "case_status": "Case Was Received",
+    "case_date": "April 12 2019"
+  },
+  {
+    "file_no": "WAC1990212066",
+    "case_status": "Case Was Received",
+    "case_date": "April 12 2019"
+  },
+  {
+    "file_no": "WAC1990212067",
+    "case_status": "Case Was Received",
+    "case_date": "April 12 2019"
+  },
+  {
+    "file_no": "WAC1990212707",
+    "case_status": "Case Was Received",
+    "case_date": "April 15 2019"
+  },
+  {
+    "file_no": "WAC1990213485",
+    "case_status": "Case Was Received",
+    "case_date": "April 15 2019"
+  },
+  {
+    "file_no": "WAC1990213486",
+    "case_status": "Case Was Approved",
+    "case_date": "May 14 2020"
+  },
+  {
+    "file_no": "WAC1990213487",
+    "case_status": "Case Was Approved",
+    "case_date": "May 14 2020"
+  },
+  {
+    "file_no": "WAC1990213534",
+    "case_status": "Case Was Received",
+    "case_date": "April 15 2019"
+  },
+  {
+    "file_no": "WAC1990213535",
+    "case_status": "Case Was Received",
+    "case_date": "April 15 2019"
+  },
+  {
+    "file_no": "WAC1990213555",
+    "case_status": "Case Was Received",
+    "case_date": "April 15 2019"
+  },
+  {
+    "file_no": "WAC1990213557",
+    "case_status": "Case Was Received",
+    "case_date": "April 15 2019"
+  },
+  {
+    "file_no": "WAC1990213561",
+    "case_status": "Case Was Received",
+    "case_date": "April 15 2019"
+  },
+  {
+    "file_no": "WAC1990213638",
+    "case_status": "Case Was Received",
+    "case_date": "April 15 2019"
+  },
+  {
+    "file_no": "WAC1990213683",
+    "case_status": "Case Was Received",
+    "case_date": "April 15 2019"
+  },
+  {
+    "file_no": "WAC1990215740",
+    "case_status": "Case Was Received",
+    "case_date": "April 16 2019"
+  },
+  {
+    "file_no": "WAC1990215741",
+    "case_status": "Case Was Received",
+    "case_date": "April 16 2019"
+  },
+  {
+    "file_no": "WAC1990215746",
+    "case_status": "Case Was Received",
+    "case_date": "April 16 2019"
+  },
+  {
+    "file_no": "WAC1990215747",
+    "case_status": "Case Was Received",
+    "case_date": "April 16 2019"
+  },
+  {
+    "file_no": "WAC1990215780",
+    "case_status": "Case Was Received",
+    "case_date": "April 16 2019"
+  },
+  {
+    "file_no": "WAC1990216866",
+    "case_status": "Case Was Received",
+    "case_date": "April 17 2019"
+  },
+  {
+    "file_no": "WAC1990216868",
+    "case_status": "Case Was Received",
+    "case_date": "April 17 2019"
+  },
+  {
+    "file_no": "WAC1990216869",
+    "case_status": "Case Was Received",
+    "case_date": "April 17 2019"
+  },
+  {
+    "file_no": "WAC1990216876",
+    "case_status": "Case Was Received",
+    "case_date": "April 17 2019"
+  },
+  {
+    "file_no": "WAC1990216877",
+    "case_status": "Case Was Received",
+    "case_date": "April 17 2019"
+  },
+  {
+    "file_no": "WAC1990218279",
+    "case_status": "Case Was Received",
+    "case_date": "April 18 2019"
+  },
+  {
+    "file_no": "WAC1990218280",
+    "case_status": "Case Was Received",
+    "case_date": "April 18 2019"
+  },
+  {
+    "file_no": "WAC1990218281",
+    "case_status": "Case Was Received",
+    "case_date": "April 18 2019"
+  },
+  {
+    "file_no": "WAC1990218282",
+    "case_status": "Case Was Received",
+    "case_date": "April 18 2019"
+  },
+  {
+    "file_no": "WAC1990218283",
+    "case_status": "Case Was Received",
+    "case_date": "April 18 2019"
+  },
+  {
+    "file_no": "WAC1990218287",
+    "case_status": "Name Was Updated",
+    "case_date": "July 13 2020"
+  },
+  {
+    "file_no": "WAC1990218293",
+    "case_status": "Case Was Received",
+    "case_date": "April 18 2019"
+  },
+  {
+    "file_no": "WAC1990218297",
+    "case_status": "Case Was Received",
+    "case_date": "April 18 2019"
+  },
+  {
+    "file_no": "WAC1990218298",
+    "case_status": "Case Was Received",
+    "case_date": "April 18 2019"
+  },
+  {
+    "file_no": "WAC1990218300",
+    "case_status": "Case Was Received",
+    "case_date": "April 18 2019"
+  },
+  {
+    "file_no": "WAC1990218301",
+    "case_status": "Case Was Received",
+    "case_date": "April 18 2019"
+  },
+  {
+    "file_no": "WAC1990218314",
+    "case_status": "Case Was Received",
+    "case_date": "April 19 2019"
+  },
+  {
+    "file_no": "WAC1990218316",
+    "case_status": "Case Was Received",
+    "case_date": "April 19 2019"
+  },
+  {
+    "file_no": "WAC1990218318",
+    "case_status": "Case Was Received",
+    "case_date": "April 19 2019"
+  },
+  {
+    "file_no": "WAC1990218323",
+    "case_status": "Case Was Received",
+    "case_date": "April 19 2019"
+  },
+  {
+    "file_no": "WAC1990218325",
+    "case_status": "Case Was Received",
+    "case_date": "April 19 2019"
+  },
+  {
+    "file_no": "WAC1990218326",
+    "case_status": "Case Was Received",
+    "case_date": "April 19 2019"
+  },
+  {
+    "file_no": "WAC1990218327",
+    "case_status": "Case Was Received",
+    "case_date": "April 19 2019"
+  },
+  {
+    "file_no": "WAC1990218440",
+    "case_status": "Case Was Received",
+    "case_date": "April 18 2019"
+  },
+  {
+    "file_no": "WAC1990219172",
+    "case_status": "Case Was Received",
+    "case_date": "April 19 2019"
+  },
+  {
+    "file_no": "WAC1990219817",
+    "case_status": "Case Was Received",
+    "case_date": "April 18 2019"
+  },
+  {
+    "file_no": "WAC1990219824",
+    "case_status": "Name Was Updated",
+    "case_date": "August 20 2019"
+  },
+  {
+    "file_no": "WAC1990221969",
+    "case_status": "Name Was Updated",
+    "case_date": "July 13 2020"
+  },
+  {
+    "file_no": "WAC1990221972",
+    "case_status": "Case Was Received",
+    "case_date": "April 22 2019"
+  },
+  {
+    "file_no": "WAC1990221974",
+    "case_status": "Case Was Received",
+    "case_date": "April 22 2019"
+  },
+  {
+    "file_no": "WAC1990221978",
+    "case_status": "Case Was Received",
+    "case_date": "April 22 2019"
+  },
+  {
+    "file_no": "WAC1990222003",
+    "case_status": "Case Was Received",
+    "case_date": "April 22 2019"
+  },
+  {
+    "file_no": "WAC1990222004",
+    "case_status": "Case Was Received",
+    "case_date": "April 22 2019"
+  },
+  {
+    "file_no": "WAC1990222011",
+    "case_status": "Case Was Received",
+    "case_date": "April 22 2019"
+  },
+  {
+    "file_no": "WAC1990222012",
+    "case_status": "Case Was Received",
+    "case_date": "April 22 2019"
+  },
+  {
+    "file_no": "WAC1990223638",
+    "case_status": "Case Was Received",
+    "case_date": "April 23 2019"
+  },
+  {
+    "file_no": "WAC1990223706",
+    "case_status": "Case Was Received",
+    "case_date": "April 23 2019"
+  },
+  {
+    "file_no": "WAC1990223707",
+    "case_status": "Notice Was Returned To USCIS Because The Post Office Could Not Deliver It",
+    "case_date": "June 30 2020"
+  },
+  {
+    "file_no": "WAC1990223956",
+    "case_status": "Case Was Received",
+    "case_date": "April 23 2019"
+  },
+  {
+    "file_no": "WAC1990224039",
+    "case_status": "Case Was Received",
+    "case_date": "April 24 2019"
+  },
+  {
+    "file_no": "WAC1990224444",
+    "case_status": "Case Was Received",
+    "case_date": "April 24 2019"
+  },
+  {
+    "file_no": "WAC1990224445",
+    "case_status": "Case Was Received",
+    "case_date": "April 24 2019"
+  },
+  {
+    "file_no": "WAC1990224569",
+    "case_status": "Case Was Received",
+    "case_date": "April 24 2019"
+  },
+  {
+    "file_no": "WAC1990224587",
+    "case_status": "Case Was Received",
+    "case_date": "April 24 2019"
+  },
+  {
+    "file_no": "WAC1990224641",
+    "case_status": "Response To USCIS' Request For Evidence Was Received",
+    "case_date": "October 7 2020"
+  },
+  {
+    "file_no": "WAC1990224642",
+    "case_status": "Case Was Received",
+    "case_date": "April 24 2019"
+  },
+  {
+    "file_no": "WAC1990224653",
+    "case_status": "Case Was Received",
+    "case_date": "April 24 2019"
+  },
+  {
+    "file_no": "WAC1990224977",
+    "case_status": "Name Was Updated",
+    "case_date": "November 19 2020"
+  },
+  {
+    "file_no": "WAC1990224978",
+    "case_status": "Case Was Received",
+    "case_date": "April 25 2019"
+  },
+  {
+    "file_no": "WAC1990224993",
+    "case_status": "Name Was Updated",
+    "case_date": "August 5 2020"
+  },
+  {
+    "file_no": "WAC1990225191",
+    "case_status": "Case Was Received",
+    "case_date": "April 25 2019"
+  },
+  {
+    "file_no": "WAC1990225292",
+    "case_status": "Name Was Updated",
+    "case_date": "July 13 2020"
+  },
+  {
+    "file_no": "WAC1990225462",
+    "case_status": "Case Was Received",
+    "case_date": "April 25 2019"
+  },
+  {
+    "file_no": "WAC1990225467",
+    "case_status": "Case Was Received",
+    "case_date": "April 25 2019"
+  },
+  {
+    "file_no": "WAC1990226801",
+    "case_status": "Case Was Received",
+    "case_date": "April 26 2019"
+  },
+  {
+    "file_no": "WAC1990226802",
+    "case_status": "Case Was Received",
+    "case_date": "April 26 2019"
+  },
+  {
+    "file_no": "WAC1990226803",
+    "case_status": "Case Was Received",
+    "case_date": "April 26 2019"
+  },
+  {
+    "file_no": "WAC1990226805",
+    "case_status": "Case Was Received",
+    "case_date": "April 26 2019"
+  },
+  {
+    "file_no": "WAC1990226821",
+    "case_status": "Case Was Rejected Because It Was Improperly Filed",
+    "case_date": "April 30 2019"
+  },
+  {
+    "file_no": "WAC1990227016",
+    "case_status": "Case Was Received",
+    "case_date": "April 26 2019"
+  },
+  {
+    "file_no": "WAC1990227107",
+    "case_status": "Case Was Received",
+    "case_date": "April 26 2019"
+  },
+  {
+    "file_no": "WAC1990227108",
+    "case_status": "Name Was Updated",
+    "case_date": "October 19 2020"
+  },
+  {
+    "file_no": "WAC1990227109",
+    "case_status": "Case Was Received",
+    "case_date": "April 26 2019"
+  },
+  {
+    "file_no": "WAC1990228048",
+    "case_status": "Case Was Denied",
+    "case_date": "November 24 2020"
+  },
+  {
+    "file_no": "WAC1990229974",
+    "case_status": "Case Was Received",
+    "case_date": "April 29 2019"
+  },
+  {
+    "file_no": "WAC1990229975",
+    "case_status": "Case Was Received",
+    "case_date": "April 29 2019"
+  },
+  {
+    "file_no": "WAC1990229976",
+    "case_status": "Case Was Received",
+    "case_date": "April 29 2019"
+  },
+  {
+    "file_no": "WAC1990229977",
+    "case_status": "Case Was Received",
+    "case_date": "April 29 2019"
+  },
+  {
+    "file_no": "WAC1990229978",
+    "case_status": "Case Was Approved",
+    "case_date": "April 30 2020"
+  },
+  {
+    "file_no": "WAC1990229985",
+    "case_status": "Case Was Received",
+    "case_date": "April 29 2019"
+  },
+  {
+    "file_no": "WAC1990230015",
+    "case_status": "Case Was Received",
+    "case_date": "April 29 2019"
+  },
+  {
+    "file_no": "WAC1990230016",
+    "case_status": "Case Was Received",
+    "case_date": "April 29 2019"
+  },
+  {
+    "file_no": "WAC1990230019",
+    "case_status": "Name Was Updated",
+    "case_date": "July 13 2020"
+  },
+  {
+    "file_no": "WAC1990230020",
+    "case_status": "Case Was Received",
+    "case_date": "April 29 2019"
+  },
+  {
+    "file_no": "WAC1990230023",
+    "case_status": "Case Was Received",
+    "case_date": "April 29 2019"
+  },
+  {
+    "file_no": "WAC1990230034",
+    "case_status": "Case Was Received",
+    "case_date": "April 29 2019"
+  },
+  {
+    "file_no": "WAC1990230035",
+    "case_status": "Case Was Received",
+    "case_date": "April 29 2019"
+  },
+  {
+    "file_no": "WAC1990232174",
+    "case_status": "Case Was Received",
+    "case_date": "April 30 2019"
+  },
+  {
+    "file_no": "WAC1990232183",
+    "case_status": "Case Was Received",
+    "case_date": "April 30 2019"
+  },
+  {
+    "file_no": "WAC1990232214",
+    "case_status": "Case Was Received",
+    "case_date": "April 30 2019"
+  },
+  {
+    "file_no": "WAC1990232215",
+    "case_status": "Case Was Received",
+    "case_date": "April 30 2019"
+  },
+  {
+    "file_no": "WAC1990232227",
+    "case_status": "Case Was Received",
+    "case_date": "April 30 2019"
+  },
+  {
+    "file_no": "WAC1990232228",
+    "case_status": "Case Was Received",
+    "case_date": "April 30 2019"
+  },
+  {
+    "file_no": "WAC1990232271",
+    "case_status": "Case Was Received",
+    "case_date": "April 30 2019"
+  },
+  {
+    "file_no": "WAC1990232272",
+    "case_status": "Case Was Received",
+    "case_date": "April 30 2019"
+  },
+  {
+    "file_no": "WAC1990232274",
+    "case_status": "Case Was Received",
+    "case_date": "April 30 2019"
+  },
+  {
+    "file_no": "WAC1990232275",
+    "case_status": "Case Was Received",
+    "case_date": "April 30 2019"
+  },
+  {
+    "file_no": "WAC1990232276",
+    "case_status": "Case Was Received",
+    "case_date": "April 30 2019"
+  },
+  {
+    "file_no": "WAC1990232818",
+    "case_status": "Case Was Approved",
+    "case_date": "February 4 2020"
+  },
+  {
+    "file_no": "WAC1990232819",
+    "case_status": "Case Was Received",
+    "case_date": "May 1 2019"
+  },
+  {
+    "file_no": "WAC1990233506",
+    "case_status": "Case Was Received",
+    "case_date": "May 1 2019"
+  },
+  {
+    "file_no": "WAC1990233509",
+    "case_status": "Case Was Received",
+    "case_date": "May 1 2019"
+  },
+  {
+    "file_no": "WAC1990233544",
+    "case_status": "Case Was Received",
+    "case_date": "May 1 2019"
+  },
+  {
+    "file_no": "WAC1990233545",
+    "case_status": "Name Was Updated",
+    "case_date": "November 22 2019"
+  },
+  {
+    "file_no": "WAC1990234196",
+    "case_status": "Case Was Received",
+    "case_date": "May 2 2019"
+  },
+  {
+    "file_no": "WAC1990234245",
+    "case_status": "Case Was Received",
+    "case_date": "May 2 2019"
+  },
+  {
+    "file_no": "WAC1990234246",
+    "case_status": "Case Was Received",
+    "case_date": "May 2 2019"
+  },
+  {
+    "file_no": "WAC1990234247",
+    "case_status": "Response To USCIS' Request For Evidence Was Received",
+    "case_date": "January 11 2021"
+  },
+  {
+    "file_no": "WAC1990234248",
+    "case_status": "Case Was Received",
+    "case_date": "May 2 2019"
+  },
+  {
+    "file_no": "WAC1990235124",
+    "case_status": "Case Was Received",
+    "case_date": "May 3 2019"
+  },
+  {
+    "file_no": "WAC1990235130",
+    "case_status": "Case Was Received",
+    "case_date": "May 3 2019"
+  },
+  {
+    "file_no": "WAC1990235131",
+    "case_status": "Case Was Received",
+    "case_date": "May 3 2019"
+  },
+  {
+    "file_no": "WAC1990235139",
+    "case_status": "Case Was Received",
+    "case_date": "May 3 2019"
+  },
+  {
+    "file_no": "WAC1990235141",
+    "case_status": "Case Was Approved",
+    "case_date": "February 26 2020"
+  },
+  {
+    "file_no": "WAC1990235171",
+    "case_status": "Case Was Received",
+    "case_date": "May 3 2019"
+  },
+  {
+    "file_no": "WAC1990235172",
+    "case_status": "Case Was Received",
+    "case_date": "May 3 2019"
+  },
+  {
+    "file_no": "WAC1990235173",
+    "case_status": "Case Was Received",
+    "case_date": "May 3 2019"
+  },
+  {
+    "file_no": "WAC1990235179",
+    "case_status": "Case Was Approved",
+    "case_date": "March 17 2020"
+  },
+  {
+    "file_no": "WAC1990235185",
+    "case_status": "Case Was Received",
+    "case_date": "May 3 2019"
+  },
+  {
+    "file_no": "WAC1990235196",
+    "case_status": "Case Was Received",
+    "case_date": "May 3 2019"
+  },
+  {
+    "file_no": "WAC1990236668",
+    "case_status": "Case Was Received",
+    "case_date": "May 2 2019"
+  },
+  {
+    "file_no": "WAC1990236669",
+    "case_status": "Case Was Received",
+    "case_date": "May 2 2019"
+  },
+  {
+    "file_no": "WAC1990238389",
+    "case_status": "Case Was Received",
+    "case_date": "May 6 2019"
+  },
+  {
+    "file_no": "WAC1990238390",
+    "case_status": "Name Was Updated",
+    "case_date": "July 13 2020"
+  },
+  {
+    "file_no": "WAC1990238434",
+    "case_status": "Case Was Received",
+    "case_date": "May 6 2019"
+  },
+  {
+    "file_no": "WAC1990238435",
+    "case_status": "Case Was Received",
+    "case_date": "May 6 2019"
+  },
+  {
+    "file_no": "WAC1990238436",
+    "case_status": "Case Was Received",
+    "case_date": "May 6 2019"
+  },
+  {
+    "file_no": "WAC1990238437",
+    "case_status": "Case Was Received",
+    "case_date": "May 6 2019"
+  },
+  {
+    "file_no": "WAC1990238446",
+    "case_status": "Case Was Received",
+    "case_date": "May 6 2019"
+  },
+  {
+    "file_no": "WAC1990239850",
+    "case_status": "Case Was Received",
+    "case_date": "May 6 2019"
+  },
+  {
+    "file_no": "WAC1990239851",
+    "case_status": "Case Was Received",
+    "case_date": "May 6 2019"
+  },
+  {
+    "file_no": "WAC1990239852",
+    "case_status": "Case Was Received",
+    "case_date": "May 6 2019"
+  }
+]
