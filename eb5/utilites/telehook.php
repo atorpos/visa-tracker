@@ -55,7 +55,7 @@
 
             $ch = curl_init();
 
-            curl_setopt($ch, CURLOPT_URL, "https://api.telegram.org/bot1704379973:AAEGczf9-eUPqo5-DoE6eAL4_NEym3--O9k/sendMessage");
+            curl_setopt($ch, CURLOPT_URL, "https://api.telegram.org/{apikey}/sendMessage");
             curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
             curl_setopt($ch, CURLOPT_POST, 1);
             curl_setopt($ch, CURLOPT_POSTFIELDS, json_encode($chatcontent));
