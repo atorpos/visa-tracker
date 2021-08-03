@@ -3,10 +3,10 @@
 
 class dbconnect
 {
-    private $host = "testingdb.cnurlrknw76w.us-west-2.rds.amazonaws.com";
-    private $db_name = "visa_container";
-    private $username = "admin";
-    private $password = "xepxub-danwat-2qAxfi";
+    private $host = {host};
+    private $db_name = {db_name};
+    private $username = "{user}";
+    private $password = "{password}";
     public $conn;
 
     public function getConnection() {
