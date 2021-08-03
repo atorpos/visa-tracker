@@ -1,10 +1,10 @@
 <?php
-    $file = file_get_contents('/Users/atropos/Documents/Work/NetBeansProjects/Paysec/eb5/json/i526update_WAC19903199941616031343.145473.json');
+    $file = file_get_contents('{file_location}');
     $decode_json = json_decode($file);
-    $servername = "localhost";
-    $username = "root";
-    $password = "va1f4iz0";
-    $dbname   = "sys";
+    $servername = "{server_address}";
+    $username = "{user}";
+    $password = "{password}";
+    $dbname   = "{dbname}";
 
     $conn = new mysqli($servername, $username, $password, $dbname);
 
